@@ -1,6 +1,6 @@
 # Federalist template using Gatsby and USWDS 2.0
 
-This is a working example of deploying a [Gatsby](https://www.gatsbyjs.org/) and [US Web Design System v2.0](https://v2.designsystem.digital.gov/) static site with [Federalist](https://federalist.18f.gov/). It should be considered **experimental and a work in progress**.
+This is as working example of deploying a [Gatsby](https://www.gatsbyjs.org/) and [US Web Design System v2.0](https://v2.designsystem.digital.gov/) static site with [Federalist](https://federalist.18f.gov/). It should be considered **experimental and a work in progress**.
 
 ## See It Live
 
